@@ -13,7 +13,7 @@
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <title>Routes from Ryogoku station (Sobu line) to the apartment</title>
+    <title>Routes from Narita airport to Ryogoku station (Oedo line)</title>
   </head>
   <body bgcolor=white>
     <nav class="navbar navbar-inverse">
@@ -60,8 +60,42 @@
           <img src="images/icon.png">
         </td>
         <td>
-          <h2>Routes from Ryogoku station (Sobu line) to the apartment</h2>
+          <h2>Routes from Narita airport to Ryogoku station (Oedo line)</h2>
         </td>
+      </tr>
+      <tr>
+        <td align="center">
+		  <img src="images/oedo.png"><br/>
+        </td>
+        <td>
+		  <li><p>Oedo line: Ryogoku --> Ueno Okachimachi (3 stations - 5 min)</p></li>
+        </td>
+      </tr>
+      <tr>
+        <td align="center">
+		  <img src="images/walk.png"><br/>
+        </td>
+        <td>
+		  <li><p>Walk from Ueno Okachimachi --> Keisei Ueno (10 min)</p></li>
+        </td>
+      </tr>
+      <tr>
+        <td align="center">
+		  <img src="images/skyliner.png">
+        </td>
+        <td>
+		  <li><p>Skyliner Keisei Line: Keisei Ueno --> Narita airport (3 stations - 45 min)</p></li>
+        </td>
+      </tr>
+
+      <tr>
+        <td>
+        </td>
+		<td>
+			<p>Total travel time estimated: 1 hour</p>
+			<p>Fee: 2,650 JPY</p>
+        </td>
+      </tr>
     </table>
   </div>
   <div>
@@ -70,35 +104,18 @@
   <p></p>
 
   <p class="resizeimage">
-	<img src="images/Sobu_line/1.jpg"><br/><br/>
-	<img src="images/Sobu_line/2.jpg"><br/><br/>
-	<img src="images/Sobu_line/3.jpg"><br/><br/>
-	<img src="images/Sobu_line/4.jpg"><br/><br/>
-<!--	<img src="images/Sobu_line/5.jpg"><br/><br/>
-	<img src="images/Sobu_line/6.jpg"><br/><br/> -->
-	<img src="images/Sobu_line/7.jpg"><br/><br/>
-	<img src="images/Sobu_line/8.jpg"><br/><br/>
-	<img src="images/Sobu_line/9.jpg"><br/><br/>
-	<img src="images/Sobu_line/10.jpg"><br/><br/>
-	<img src="images/Sobu_line/11.jpg"><br/><br/>
-	<img src="images/Sobu_line/12.jpg"><br/><br/>
-	<img src="images/Sobu_line/13.jpg"><br/><br/>
-	<img src="images/Sobu_line/14.jpg"><br/><br/>
-	<img src="images/Sobu_line/15.jpg"><br/><br/>
-	<img src="images/Sobu_line/16.jpg"><br/><br/>
-	<img src="images/Sobu_line/17.jpg"><br/><br/>
-	<img src="images/Sobu_line/18.jpg"><br/><br/>
-	<img src="images/Sobu_line/19.jpg"><br/><br/>
-	<img src="images/Sobu_line/20.jpg"><br/><br/>
-	<img src="images/Sobu_line/21.jpg"><br/><br/>
-	<img src="images/Sobu_line/22.jpg"><br/><br/>
-	<img src="images/Sobu_line/23.jpg"><br/><br/>
-	<img src="images/Sobu_line/24.jpg"><br/><br/>
-	<img src="images/Sobu_line/25.jpg"><br/><br/>
-	<img src="images/Sobu_line/26.jpg"><br/><br/>
-	<img src="images/Sobu_line/27.jpg"><br/><br/>
-	<img src="images/Sobu_line/28.jpg"><br/><br/>
-</p>
+	<img src="images/Narita2/1.jpg"></br></br>
+	<img src="images/Narita2/2.jpg"></br></br>
+	<img src="images/Narita2/3.jpg"></br></br>
+	<img src="images/Narita2/4.jpg"></br></br>
+	<img src="images/Narita2/5.jpg"></br></br>
+	<img src="images/Narita2/6.jpg"></br></br>
+	<img src="images/Narita2/7.jpg"></br></br>
+	<img src="images/Narita2/8.jpg"></br></br>
+	<img src="images/Narita2/9.jpg"></br></br>
+	<img src="images/Narita2/10.jpg"></br></br>
+	<img src="images/Narita2/11.jpg"></br></br>
+  </p>
 
 	<a name="jumpbottom"></a>
   <div>
